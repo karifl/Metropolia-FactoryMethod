@@ -4,7 +4,7 @@
 Exercise example of Factory Method
 
 
-Interfaces: Ruoka amd Juoma
+Interfaces: Ruoka and Juoma
 
 AbstractClass: AterioivaOtus
 
